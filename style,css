@@ -1,0 +1,27 @@
+body{
+  background-color:lightgrey;
+}
+.fa{
+  color:#1D9BF0;
+
+
+}
+.text{
+
+  margin: 10px 0px;
+}
+.span{
+  font-size: 14px;
+}
+.insidebox{
+  background-color:whitesmoke;
+  padding:60px 10px;
+  margin:30px 0px;
+  
+}
+a{
+  border-bottom: 1px solid #1D9BF0;
+}
+.box{
+  padding:60px 0px
+}
